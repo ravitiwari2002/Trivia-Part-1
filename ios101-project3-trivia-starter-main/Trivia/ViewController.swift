@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Trivia
-//
-//  Created by rtiwari6 on 10/5/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
