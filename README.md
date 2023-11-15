@@ -1,42 +1,22 @@
-# Project 3 - *Trivia App Pt. 1*
-
-Submitted by: **Ravi iwari**
+*Trivia App Pt. 1*
 
 **Trivia App** is an app that allows you to guess answer on few random questions
 
-Time spent: **6** hours spent in total
+## Features
 
-## Required Features
+The following functionalities are implemented:
 
-The following **required** functionality is completed:
+-  User can view the current question and 4 different answers
+-  User can view the next question after tapping an answer
+-  User can answer at least 3 different questions
+-  User can use the vertical orientation of the app on any device
+-  User can track the question they are on and how many questions are left
+-  User can see how many questions they got correct after answering all questions
+-  User should be able to restart the game after they've finished answering all questions
 
-- [X] User can view the current question and 4 different answers
-- [X] User can view the next question after tapping an answer
-- [X] User can answer at least 3 different questions
 
+https://github.com/ravitiwari2002/Trivia-Part-1/assets/81186121/7dffe14c-4f3e-4c3b-bd30-6584fb8c976a
 
-The following **optional** features are implemented:
-
-- [X] User can use the vertical orientation of the app on any device
-- [X] User can track the question they are on and how many questions are left
-- [X] User can see how many questions they got correct after answering all questions
-- [X] User should be able to restart the game after they've finished answering all questions
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[![Video](https://img.youtube.com/vi/n0ncb_mf79o/maxresdefault.jpg)](https://youtu.be/n0ncb_mf79o)
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-- I had issues in creating ViewController and connecting UIElements to it. 
 
 ## License
 
